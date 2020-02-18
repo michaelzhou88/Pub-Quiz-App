@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+    
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/15</string>
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">The only letter that doesn’t appear on the periodic table is J</string>
+    <string name="question_2">If you cut down a cactus in Arizona, you be penalized up to 25 years in jail. It is similar to cutting down a protected tree species.</string>
+    <string name="question_3">Iceland does not have a railway system.</string>
+    <string name="question_4">In Colorado, USA, there is still an active volcano. It last erupted about the same time as the pyramids were being built in Egypt.</string>
+    <string name="question_5">The favorite food of the Teenage Mutant Ninja Turtles is pizza.</string>
+    <string name="question_6">The capital of Libya is Benghazi.</string>
+    <string name="question_7">Violin bows are commonly made from horse hair.</string>
+    <string name="question_8">The American Civil War ended in 1776.</string>
+    <string name="question_9">Google was originally called \"Backrub\".</string>
+    <string name="question_10">Buzz Aldrin\'s mother\'s maiden name was \"Moon\".</string>
+    <string name="question_11">No bird can fly backwards.</string>
+    <string name="question_12">Thomas Jefferson was the second president of the United States.</string>
+    <string name="question_13">Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
+    <string name="question_14">A man from the USA consumed his 26,000th Big Mac on 11th October 2012, after eating at least one a day for forty years.</string>
+    <string name="question_15">\"Cost\" is one of the 4 C\'s of diamond grading.</string>
+
+</resources>
